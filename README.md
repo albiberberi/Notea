@@ -1,0 +1,2 @@
+# Notea
+Note-taking app
