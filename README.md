@@ -42,7 +42,7 @@ npm run dev
 ```
 
 4. Open your browser and navigate to `http://localhost:5173`
-![alt text](image.png)
+![alt text](src/assets/image.png)
 
 ## Usage
 
@@ -51,22 +51,22 @@ npm run dev
 2. Enter a title and content (markdown supported)
 3. Add tags for organization (optional)
 4. Click "Save"
-![alt text](image-1.png)
+![alt text](src/assets/image-1.png)
 
 ### Viewing Notes
 - All notes are displayed on the home page as cards
 - Click "View" on any note card to see full details
-![alt text](image-2.png)
+![alt text](src/assets/image-2.png)
 
 ### Filtering Notes
 - Use the search bar to filter by title
 - Select tags to filter notes by specific tags
-![alt text](image-3.png)
+![alt text](src/assets/image-3.png)
 
 ### Deleting Notes
 - Click "Delete" button on note cards or in note detail view
 - Confirm deletion when prompted
-![alt text](image-4.png)
+![alt text](src/assets/image-4.png)
 
 ## Testing
 
@@ -74,13 +74,13 @@ Run tests with:
 ```bash
 npm test
 ```
-![alt text](image-5.png)
+![alt text](src/assets/image-5.png)
 
 Run tests with UI:
 ```bash
 npm run test:ui
 ```
-![alt text](image-6.png)
+![alt text](src/assets/image-6.png)
 
 ## Project Structure
 ```
