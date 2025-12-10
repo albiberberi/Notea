@@ -25,7 +25,7 @@ A note-taking application built with React, TypeScript, and Bootstrap.
 
 ## Installation
 
-1. Clone the repository
+1. Clone the repository through the URL: https://github.com/albiberberi/Notea.git
 ```bash
 git clone 
 cd notea
